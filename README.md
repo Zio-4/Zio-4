@@ -56,7 +56,7 @@
 <br />
 
 <div align="center">
-[![Zio-4's GitHub stats](https://github-readme-stats.vercel.app/api?username=Zio-4&show_icons=true&theme=radical)
+![Zio-4's GitHub stats](https://github-readme-stats.vercel.app/api?username=Zio-4&show_icons=true&theme=radical)
 )](https://github.com/Zio-4/github-readme-stats)
 </div>
 
