@@ -1,7 +1,7 @@
 ## Hi there, I'm Phil - aka Zio-4 <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
 
 
-### A litte about me:
+### A litle about me:
 
 - 🏙️ I am located in the Bay Area in California
 - 🧑🏻‍🎨 I love working on fun and creative apps
@@ -17,9 +17,16 @@
 [<img align="center" alt="philteredsoul_ | Instagram" src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />][instagram]
 [<img align="center" alt="Gmail" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white">](mailto:philipz4848@gmail.com)
 
+<br/>
+
+---  
+
 <br />
 
+
+
 ### Languages and Tools:
+<div align="center">
 <img align="center" alt="Visual Studio Code" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />
 <img align="center" alt="HTML5" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
 <img align="center" alt="CSS3" src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
@@ -36,7 +43,7 @@
 <img align="center" alt="Heroku" src="https://img.shields.io/badge/Heroku-430098?style=for-the-badge&logo=heroku&logoColor=white">
 <img align="center" alt="JSON" src="https://img.shields.io/badge/json-5E5C5C?style=for-the-badge&logo=json&logoColor=white" >
 <img align="center" alt="Postman" src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=Postman&logoColor=white">
-
+</div>
 
 <br />
 <br />
@@ -56,6 +63,7 @@
 <br />
 
 <div align="center">
+
 ![Zio-4's GitHub stats](https://github-readme-stats.vercel.app/api?username=Zio-4&show_icons=true&theme=radical)
 </div>
 
