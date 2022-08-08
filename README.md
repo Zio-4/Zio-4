@@ -9,7 +9,7 @@
 - 👨‍💻 Ultimate developer goal: Working on a project that will better the world
 - 🌎 I've traveled to 11 countries
 - 🎓 Alumni: Sonoma State Universitry, Flatiron School
-- ⚡ Fun fact: I am 🇵🇱 Polish and love outdoor activities🌲
+- ⚡ Fun fact: I speak 🇵🇱 Polish fluently and love outdoor activities🌲
 
 ### Connect with me:
 
