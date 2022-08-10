@@ -1,7 +1,7 @@
 ## Hi there, I'm Phil - aka Zio-4 <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
 
 
-### A litle about me:
+### A little about me:
 
 - 🏙️ I am located in the Bay Area in California
 - 🧑🏻‍🎨 I love working on fun and creative apps
