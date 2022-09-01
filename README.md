@@ -11,7 +11,9 @@
 - 🎓 Alumni: Sonoma State Universitry, Flatiron School
 - ⚡ Fun fact: I speak 🇵🇱 Polish fluently and love outdoor activities🌲
 
-### Connect with me:
+Code snippet: https://github.com/Zio-4/waves/blob/main/Components/player.tsx
+
+### Connect with me: 
 
 [<img align="center" alt="Philip Ziolkowski | LinkedIn" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" style="max-width: 100%" />][linkedin]
 [<img align="center" alt="philteredsoul_ | Instagram" src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />][instagram]
