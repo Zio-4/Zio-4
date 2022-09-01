@@ -11,7 +11,8 @@
 - 🎓 Alumni: Sonoma State Universitry, Flatiron School
 - ⚡ Fun fact: I speak 🇵🇱 Polish fluently and love outdoor activities🌲
 
-Code snippet: https://github.com/Zio-4/waves/blob/main/Components/player.tsx
+### Code snippet
+https://github.com/Zio-4/waves/blob/main/Components/player.tsx
 
 ### Connect with me: 
 
