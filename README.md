@@ -17,7 +17,6 @@ https://github.com/Zio-4/waves/blob/main/Components/player.tsx
 ### Connect with me: 
 
 [<img align="center" alt="Philip Ziolkowski | LinkedIn" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" style="max-width: 100%" />][linkedin]
-[<img align="center" alt="philteredsoul_ | Instagram" src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />][instagram]
 [<img align="center" alt="Gmail" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white">](mailto:philipz4848@gmail.com)
 
 ---  
