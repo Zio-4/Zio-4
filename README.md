@@ -6,7 +6,6 @@
 - 🏙️ I am located in the Bay Area in California
 - 🧑🏻‍🎨 I love working on fun and creative apps
 - 🦿 I Also like working on useful apps
-- 👨‍💻 Ultimate developer goal: Working on a project that will better the world
 - 🌎 I've traveled to 11 countries
 - 🎓 Alumni: Sonoma State Universitry, Flatiron School
 - ⚡ Fun fact: I speak 🇵🇱 Polish fluently and love outdoor activities🌲
@@ -43,15 +42,6 @@ https://github.com/Zio-4/waves/blob/main/Components/player.tsx
 
 ---
 
-### 📕 Latest Blog Posts
-
-<!-- BLOG-POST-LIST:START -->
-- [An explanation of the two pointer technique (two sum) with a sorted array](https://philipz4848.medium.com/an-explanation-of-the-two-pointer-technique-two-sum-with-a-sorted-array-f766a3c2f4c3)
-- [How to authenticate users with a Ruby on Rails API](https://philipz4848.medium.com/how-to-authenticate-users-with-a-ruby-on-rails-api-221a363b2a13)
-- [Using Routes and Links in ReactJS](https://philipz4848.medium.com/using-routes-and-links-in-reactjs-f0a504010b19)
-<!-- BLOG-POST-LIST:END -->
-
-➡️ [more blog posts...](https://philipz4848.medium.com/)
 
 <br />
 
