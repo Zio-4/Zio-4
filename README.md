@@ -6,7 +6,7 @@
 - 🏙️ I am located in the Bay Area in California
 - 🧑🏻‍🎨 I love working on fun and creative apps
 - 🌎 I've traveled to 11 countries
-- 🌲 I love any kind of outdoor activities
+- 🌲 I love outdoor activities
 - ⚡ Fun fact: I speak 🇵🇱 Polish fluently and love 
 
 ### Code snippet
