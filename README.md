@@ -5,10 +5,9 @@
 
 - 🏙️ I am located in the Bay Area in California
 - 🧑🏻‍🎨 I love working on fun and creative apps
-- 🦿 I Also like working on useful apps
 - 🌎 I've traveled to 11 countries
-- 🎓 Alumni: Sonoma State Universitry, Flatiron School
-- ⚡ Fun fact: I speak 🇵🇱 Polish fluently and love outdoor activities🌲
+- 🌲 I love any kind of outdoor activities
+- ⚡ Fun fact: I speak 🇵🇱 Polish fluently and love 
 
 ### Code snippet
 https://github.com/Zio-4/waves/blob/main/Components/player.tsx
