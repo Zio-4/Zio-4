@@ -6,8 +6,8 @@
 - 🏙️ I am located in the Bay Area in California
 - 🧑🏻‍🎨 I love working on fun and creative apps
 - 🌎 I've traveled to 12 countries
-- 🌲 I love outdoor activities
-- ⚡ Fun fact: I speak 🇵🇱 Polish fluently and love 
+- 🌲 I love outdoor activities (hiking, skiing, just being outside!)
+- ⚡ Fun fact: I speak 🇵🇱 Polish fluently
 
 ### Code snippet
 https://github.com/Zio-4/waves/blob/main/Components/player.tsx
